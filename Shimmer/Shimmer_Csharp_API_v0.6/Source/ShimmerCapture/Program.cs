@@ -9,6 +9,8 @@ namespace ShimmerAPI
     {
         /// <summary>
         /// The main entry point for the application.
+        /// 
+        /// Install-Package WampSharp.Default-Pre
         /// </summary>
         [STAThread]
         static void Main()
